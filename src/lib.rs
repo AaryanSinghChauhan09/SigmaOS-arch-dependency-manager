@@ -1,4 +1,4 @@
-//! SigmaOS-arch-dependency-manager — arch-dependency-manager component
+//! SigmaOS-dependency-manager — dependency-manager component
 //!
 //! Part of the SigmaOS multi-repository component ecosystem. This crate
 //! declares its interface in `COMPONENT.toml` (`provides` / `depends_on`).

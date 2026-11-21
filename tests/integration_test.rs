@@ -1,4 +1,4 @@
-use arch_dependency_manager::Component;
+use sigmaos_dependency_manager::Component;
 
 #[test]
 fn test_component_new_aaa() {

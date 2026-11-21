@@ -1,4 +1,4 @@
-# SigmaOS-arch-dependency-manager
+# SigmaOS-dependency-manager
 
 GitHub description is a placeholder; component scope remains unclassified.
 
